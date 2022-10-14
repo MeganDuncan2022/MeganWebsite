@@ -1,0 +1,29 @@
+
+body {
+    margin: 0px;
+}
+
+header {
+    width: auto;
+    height: 100px;
+    background-color: red;
+}
+
+header h1 {
+margin: 0px;
+}
+
+main {
+    width: 1200px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: aqua;
+}
+
+footer {
+    width: auto;
+    height: 300px;
+    background-color: blue;
+
+}
